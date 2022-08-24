@@ -1,39 +1,109 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  publisherShort: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
+  title: Přísně tajné
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Jan Vodňanský
+  publisher: Městská knihovna v Praze
+  modified: '2022-03-31T00:00:00.000Z'
 readingOrder:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - promo.html
+  - prisne_tajne_001.html
+  - prisne_tajne_002.html
+  - prisne_tajne_003.html
+  - prisne_tajne_004.html
+  - prisne_tajne_005.html
+  - prisne_tajne_006.html
+  - prisne_tajne_007.html
+  - prisne_tajne_008.html
+  - prisne_tajne_009.html
+  - prisne_tajne_010.html
+  - prisne_tajne_011.html
+  - prisne_tajne_012.html
+  - prisne_tajne_013.html
+  - prisne_tajne_014.html
+  - prisne_tajne_015.html
+  - prisne_tajne_016.html
+  - prisne_tajne_017.html
+  - prisne_tajne_018.html
+  - prisne_tajne_019.html
+  - prisne_tajne_020.html
+  - prisne_tajne_021.html
+  - prisne_tajne_022.html
+  - prisne_tajne_023.html
+  - prisne_tajne_024.html
+  - prisne_tajne_025.html
+  - prisne_tajne_026.html
+  - prisne_tajne_027.html
+  - prisne_tajne_028.html
+  - prisne_tajne_029.html
+  - prisne_tajne_030.html
+  - prisne_tajne_031.html
+  - prisne_tajne_032.html
+  - prisne_tajne_033.html
+  - prisne_tajne_034.html
+  - prisne_tajne_035.html
+  - prisne_tajne_036.html
+  - prisne_tajne_037.html
+  - prisne_tajne_038.html
+  - prisne_tajne_039.html
+  - prisne_tajne_040.html
+  - prisne_tajne_041.html
+  - prisne_tajne_042.html
+  - prisne_tajne_043.html
+  - prisne_tajne_044.html
+  - prisne_tajne_045.html
+  - prisne_tajne_046.html
+  - prisne_tajne_047.html
+  - prisne_tajne_048.html
+  - prisne_tajne_049.html
+  - prisne_tajne_050.html
+  - prisne_tajne_051.html
+  - prisne_tajne_052.html
+  - prisne_tajne_053.html
+  - prisne_tajne_054.html
+  - prisne_tajne_055.html
+  - prisne_tajne_056.html
+  - prisne_tajne_057.html
+  - prisne_tajne_058.html
+  - prisne_tajne_059.html
+  - prisne_tajne_060.html
+  - prisne_tajne_061.html
+  - prisne_tajne_062.html
+  - prisne_tajne_063.html
+  - prisne_tajne_064.html
+  - prisne_tajne_065.html
+  - prisne_tajne_066.html
+  - prisne_tajne_067.html
+  - prisne_tajne_068.html
+  - prisne_tajne_069.html
+  - prisne_tajne_070.html
+  - prisne_tajne_071.html
+  - prisne_tajne_072.html
+  - prisne_tajne_073.html
+  - prisne_tajne_074.html
+  - prisne_tajne_075.html
+  - prisne_tajne_076.html
+  - prisne_tajne_077.html
+  - prisne_tajne_078.html
+  - prisne_tajne_079.html
+  - prisne_tajne_080.html
+  - prisne_tajne_081.html
+  - prisne_tajne_082.html
+  - prisne_tajne_083.html
 tocBase:
-  - isSection: true
-    children:
-      - link: where-i-lived-and-what-i-lived-for.html
-        title: Where i lived and what i lived for
-        numberedChildren: true;
-        children:
-          - link: reading.html
-            title: Reading
-          - link: sounds.html
-            title: Sounds
-      - link: solitude.html
-        title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - assets
   - favicon.png
