@@ -1,15 +1,15 @@
 ---
 title: "Vyhození z\_ateliéru"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Za tu vaši nahotinu  
+Za tu vaši nahotinu  
 Vyhodím vás na hodinu  
 Nekreslil jste modelku  
 Jenom její prdelku  
 Nakonec jste vycák’  
-na svůj vlastní skicák_
+na svůj vlastní skicák
 
 </section>

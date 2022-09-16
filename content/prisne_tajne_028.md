@@ -1,11 +1,11 @@
 ---
 title: "Dívčí z\_Horehronní"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Keď ma chlapci boskavajú  
-Ušiska mi odstavajú_
+Keď ma chlapci boskavajú  
+Ušiska mi odstavajú
 
 </section>

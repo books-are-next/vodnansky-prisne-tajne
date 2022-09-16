@@ -1,11 +1,11 @@
 ---
 title: Že prej se fintim
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Že prej se fintim  
-Když spray_…_? Tak Intim_…_!_
+Že prej se fintim  
+Když spray_…_? Tak Intim_…_!
 
 </section>

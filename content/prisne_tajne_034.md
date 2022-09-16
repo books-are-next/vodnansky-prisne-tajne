@@ -1,17 +1,17 @@
 ---
 title: Kdybych byl Pontim
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kdybych byl Pontim  
+Kdybych byl Pontim  
 Tim italským tvorem  
 Tak si zas najdu jen  
 Sofiu Loren  
 Kdybych byl Pontim  
 Ruce ji zkroutím  
 Posadím do vany  
-Fotím a fotím_
+Fotím a fotím
 
 </section>

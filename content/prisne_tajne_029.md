@@ -1,13 +1,13 @@
 ---
 title: "S\_příchodem jara"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_S příchodem jara  
+S příchodem jara  
 Mládne mi stará  
 Stárne mi mladá  
-Na mne to padá_
+Na mne to padá
 
 </section>

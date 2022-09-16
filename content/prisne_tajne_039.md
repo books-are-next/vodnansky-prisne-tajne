@@ -1,13 +1,13 @@
 ---
 title: Správný kaprál
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Byl to správný kaprál  
+Byl to správný kaprál  
 Hned mi ho tam napral  
 Nevím jestli náhodou  
-Mám pocit že naschvál_
+Mám pocit že naschvál
 
 </section>

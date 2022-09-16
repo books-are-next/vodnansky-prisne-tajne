@@ -1,18 +1,18 @@
 ---
 title: "Když jsem s\_tebou v\_monsunu"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Když jsem s Tebou v monsunu  
+Když jsem s Tebou v monsunu  
 Do Tebe se zasunu  
 Bez ohledu na sumu  
-Zbavilasʼ mě rozumu_
+Zbavilasʼ mě rozumu
 
-_Když jsem v oku uragánu  
+Když jsem v oku uragánu  
 Svedu každou slušnou dámu  
 Když jsem s tebou v tornádu  
-Podobám se hovadu_
+Podobám se hovadu
 
 </section>

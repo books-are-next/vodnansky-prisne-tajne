@@ -1,13 +1,13 @@
 ---
 title: Někdo tu hajá
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Někdo tu hajá  
 Někdo tu hajá  
 Někdo tu hajá  
-A já…_
+Někdo tu hajá  
+A já…
 
 </section>

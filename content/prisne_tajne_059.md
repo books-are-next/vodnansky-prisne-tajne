@@ -1,11 +1,11 @@
 ---
 title: Požadavky těla
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Požadavky těla  
+Požadavky těla  
 To je cos mi chtěla  
 Tvoje krajně divoký  
 bujný těla nároky  
@@ -18,6 +18,6 @@ Bujný prsa
 Každá noha  
 Jinak trsá  
 Požadavky těla…?  
-To zas bude mela_
+To zas bude mela
 
 </section>

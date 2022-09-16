@@ -1,51 +1,51 @@
 ---
 title: Vynález Francie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Paní není k dispozici  
+Paní není k dispozici  
 poslužte si služkou  
 Prominent promine  
 prominent se pomine  
 Očka plná nostalgie  
 zdoben čestnou stužkou  
-            legie legie_
+            legie legie
 
-     _Vyzvání k tanci je  
-     vynález Francie…_
+     Vyzvání k tanci je  
+     vynález Francie…
 
-_Tak to dělal Napoleon  
+Tak to dělal Napoleon  
 Tak to dělal Voltaire  
 Řekli jim… holenku  
 dámy mají volenku  
 S uhrančivým pohledem  
 a jedním slovem: volte_…_!  
-            získali milenku_
+            získali milenku
 
-     _Nejdřív se drancuje  
-     a pak se tancuje…_
+     Nejdřív se drancuje  
+     a pak se tancuje…
 
-_Paní není k dispozici  
+Paní není k dispozici  
 Pán si hraje s puškou  
 Prominent promine  
 když ho kulka nemine  
 Ovažte si vlásky hbitě  
 maskovací stužkou  
-jemine… domine_
+jemine… domine
 
-     _Lesík je Buloňský  
+     Lesík je Buloňský  
      a v něm jsou bretoňský…  
-     kadeti_
+     kadeti
 
-_Služka není k dispozici  
+Služka není k dispozici  
 poslužte si paní  
 Kadeti z Bretaně  
 ti milují oddaně  
 Kardinál je Richelieu  
 honí za svítání  
-na bráně… do báně_
+na bráně… do báně
 
      _Je vous prie pour la danse  
      C’est l’idée de la France_

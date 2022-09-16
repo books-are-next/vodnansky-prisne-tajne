@@ -1,16 +1,16 @@
 ---
 title: Dárce spermatu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jsem dárce spermatu  
+Jsem dárce spermatu  
 Mám nóbl kravatu  
 Za každou spermii  
-Dostanu prémii_
+Dostanu prémii
 
-_Dřív než se pomatu  
-A skončím v komatu_
+Dřív než se pomatu  
+A skončím v komatu
 
 </section>

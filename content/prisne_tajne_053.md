@@ -1,11 +1,11 @@
 ---
 title: Šemík v ovzduší
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Do daleka  
+Do daleka  
 vyplašený  
 když ho v touze vyruší  
 Pádí Šemík  
@@ -14,9 +14,9 @@ už se vznáší v ovzduší
 Modré ráno v závoj mlžný  
 halí scenérii snů  
 Ptám se, je to vůbec možný  
-a už ani nehlesnu_
+a už ani nehlesnu
 
-_Do daleka  
+Do daleka  
 vyplašený  
 když ho v touze vyruší  
 Pádí Šemík  
@@ -25,9 +25,9 @@ zaznívá to do uší
 Zdálky klinkají jak zvonky  
 zvuky jeho kopýtek  
 A já zde na jeho zdraví  
-pozvedám svůj přípitek_
+pozvedám svůj přípitek
 
-_Jeho zdraví  
+Jeho zdraví  
 sexuální  
 potřebné je pro klisny  
 Neříkej to  
@@ -36,14 +36,14 @@ oplzlý a úlisný
 Opojně se rozednívá  
 tupě si mě prohlížíš  
 Koník v dáli odeznívá  
-sotva už mu ublížíš_
+sotva už mu ublížíš
 
-          _Cinkylinky… Lalala_
+          Cinkylinky… Lalala
 
-_Neříkej mi  
+Neříkej mi  
 žádná slova  
 Sliby jsou jak spropitné  
 Ať jen potichounku znova  
-o mlčení klopýtnem_
+o mlčení klopýtnem
 
 </section>

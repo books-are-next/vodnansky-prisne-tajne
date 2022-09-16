@@ -1,13 +1,13 @@
 ---
 title: Je to pravda trochu trpká
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Je to pravda trochu trpká  
+Je to pravda trochu trpká  
 Vaše paní se mnou trtká  
 i když není prostitutka  
-Otrtkala by i krtka_
+Otrtkala by i krtka
 
 </section>

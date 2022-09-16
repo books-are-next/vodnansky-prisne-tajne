@@ -1,15 +1,15 @@
 ---
 title: Tvoje stydké pysky
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Tvoje stydké pysky  
-Přinášej mi zisky_
+Tvoje stydké pysky  
+Přinášej mi zisky
 
-_Projdeš městem  
+Projdeš městem  
 A hned všude  
-Stojí obelisky_
+Stojí obelisky
 
 </section>

@@ -1,17 +1,17 @@
 ---
 title: Šmudla
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_V místech kde jsou Košice  
-Honí Šmudlu samice_
+V místech kde jsou Košice  
+Honí Šmudlu samice
 
-_Nedaleko Vrchlabí  
-mění Šmudla pohlaví_
+Nedaleko Vrchlabí  
+mění Šmudla pohlaví
 
-_V místech, kde je Třeboň  
-Už ho Šmudlo nehoň_
+V místech, kde je Třeboň  
+Už ho Šmudlo nehoň
 
 </section>

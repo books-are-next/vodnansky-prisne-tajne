@@ -1,11 +1,11 @@
 ---
 title: Konopí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Konopí je cizím slovem „Kanabis“  
-Zdá se, že pod jeho vlivem dala bys_
+Konopí je cizím slovem „Kanabis“  
+Zdá se, že pod jeho vlivem dala bys
 
 </section>

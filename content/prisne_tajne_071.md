@@ -1,13 +1,13 @@
 ---
 title: Na topole podle skal
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Na topole podle skal  
+Na topole podle skal  
 Zelený mužík poboskal  
 Sviť měsíčku sviť  
-Poboskal mi riť_
+Poboskal mi riť
 
 </section>

@@ -1,13 +1,13 @@
 ---
 title: "Přišel k\_nám pes"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Přišel k nám pes  
+Přišel k nám pes  
 Nahoře bez  
 Dole však měl  
-Všechno co chtěl_
+Všechno co chtěl
 
 </section>

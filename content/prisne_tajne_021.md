@@ -1,23 +1,23 @@
 ---
 title: Třesou se ti ruce
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Třesou se ti ruce  
+Třesou se ti ruce  
 Nemůžeš být Vůdce  
 Kdybys dělal hajl  
-Byl by z toho faul_
+Byl by z toho faul
 
-_Třesou se ti pracky  
+Třesou se ti pracky  
 Nestrefjej se facky  
 Zuby drkotaj  
-Hajl husičky hajl_
+Hajl husičky hajl
 
-_Třese se ti penis  
+Třese se ti penis  
 Nemůžeš hrát tenis  
 Lásky troskotaj  
-Hajl husičky Hajl_
+Hajl husičky Hajl
 
 </section>

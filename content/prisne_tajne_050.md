@@ -1,17 +1,17 @@
 ---
 title: Naše vlastní dcera
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Naše vlastní dcera včera řekla nám  
-že se fotí nahá kvůli reklamám_
+Naše vlastní dcera včera řekla nám  
+že se fotí nahá kvůli reklamám
 
-_S větrníkem v konečníku  
-k pobavení kurevníků_
+S větrníkem v konečníku  
+k pobavení kurevníků
 
-_K jejich tržní motivaci  
-Máme dceru pro legraci_
+K jejich tržní motivaci  
+Máme dceru pro legraci
 
 </section>

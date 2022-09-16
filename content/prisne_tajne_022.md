@@ -1,11 +1,11 @@
 ---
 title: Zahejbanda
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Zahla tam — zahla sem  
-Svého srdce… za hlasem_
+Zahla tam — zahla sem  
+Svého srdce… za hlasem
 
 </section>

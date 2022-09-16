@@ -1,13 +1,13 @@
 ---
 title: Svěřila jsem mamince
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Svěřila jsem mamince  
+Svěřila jsem mamince  
 že jsem měla cizince  
 No a pak mi v bříšku vznik’…  
-Cizí státní příslušník_
+Cizí státní příslušník
 
 </section>

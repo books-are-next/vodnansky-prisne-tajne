@@ -1,14 +1,14 @@
 ---
 title: Cesta na jih
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Slečna do Italie  
+Slečna do Italie  
 Veze genitálie  
 už se těší na Italy  
 A na jejich genitaly  
-zvou ji do patálie_
+zvou ji do patálie
 
 </section>

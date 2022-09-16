@@ -1,16 +1,16 @@
 ---
 title: Přípravy na májovou demonstraci
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Policejní kordony  
+Policejní kordony  
 Nasazují kondomy  
 A knoflíčky do manžetek  
 K rozehnání sufražetek  
 _…_  
 A kam ráčí „paparazzi“?  
-Snad jedině na stromy_
+Snad jedině na stromy
 
 </section>

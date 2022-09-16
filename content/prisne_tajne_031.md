@@ -1,11 +1,11 @@
 ---
 title: Teto… vždy jen se strejcem
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Teto… vždy jen se strejcem  
-Věrnost chrání před Aidsem_
+Teto… vždy jen se strejcem  
+Věrnost chrání před Aidsem
 
 </section>

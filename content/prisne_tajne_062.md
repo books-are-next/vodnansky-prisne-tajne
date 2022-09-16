@@ -1,11 +1,11 @@
 ---
 title: Kůň
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kůň mlčí a močí  
+Kůň mlčí a močí  
 S ním močí i kočí  
 A myslí si svý  
 A myslí si svý  
@@ -16,9 +16,9 @@ A všichni tři
 Myslí si svý  
 Kůň_…_ mlčí a močí  
 S ním náhodný příchozí  
-močí i kočí_
+močí i kočí
 
-_Zem s nimi dále se točí  
-a myslí si svý_…!__
+Zem s nimi dále se točí  
+a myslí si svý_…!_
 
 </section>

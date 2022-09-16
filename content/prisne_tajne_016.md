@@ -1,22 +1,22 @@
 ---
 title: "Ja v\_rytme tanca"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Já v rytme tanca  
+Já v rytme tanca  
 Naháňam samca  
 Lebo som sama samica  
 Keď príde chlapec  
 A je v ňom samec  
-Škrábem ho ako dračica_
+Škrábem ho ako dračica
 
-_Já v rytme tanca  
+Já v rytme tanca  
 Naháňam branca  
-Nepýtám sa, či páčí sa_
+Nepýtám sa, či páčí sa
 
-_Výsadkári zo Žiliny  
+Výsadkári zo Žiliny  
 Stali sa mi osudom  
 Výsadkári zo Žiliny  
 Iným poviem svojo: „Nem tudom…!“  
@@ -25,19 +25,19 @@ Majú rudé barety
 A pekné maskáče  
 A keď mi odletí  
 Tak si dievča popláče  
-Skvor jako…_
+Skvor jako…
 
-_Já v rytme tanca  
+Já v rytme tanca  
 Naháňam samca  
 Naháňam svojho frajára  
 Keď príde chlapec  
 A je v ňom kanec  
-Ženem ho z pekla do rája_
+Ženem ho z pekla do rája
 
-_V rytme čardaša  
+V rytme čardaša  
 Naháňam šaša  
 A v rytme tanga  
 Chalana  
-Ženem ho z noci do rána_
+Ženem ho z noci do rána
 
 </section>

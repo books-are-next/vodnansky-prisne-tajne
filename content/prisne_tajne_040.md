@@ -1,11 +1,11 @@
 ---
 title: Vánoce ve Špindlu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Společným do sněhu pádem  
+Společným do sněhu pádem  
 již ráno nás opojí  
 tajemnou tmou končívá den  
 valčík zazní v Savoji  
@@ -15,17 +15,17 @@ zpívá celý Špindl
 to zná…  
 Že láska je švindl  
 zpívá celý Špindl  
-Ó celičký Špindl to zná_
+Ó celičký Špindl to zná
 
-_Sladce se blíží ret ke rtu  
+Sladce se blíží ret ke rtu  
 Tu náhle taje váš chlad  
 ve vášni nového flirtu  
 jak sníh a rychleji snad  
 Že láska je švindl  
 zpívá celý Špindl  
-Ó celičký Špindl to zná_
+Ó celičký Špindl to zná
 
-_Pevněji než kandahárem  
+Pevněji než kandahárem  
 já vámi jsem upoután  
 v duši mé hárá to žárem  
 v lásku ale nedoufám  
@@ -36,6 +36,6 @@ to zná_…_
 Že láska je švindl  
 zpívá celý Špindl  
 Ó celičký Špindl  
-to zná_…__
+to zná_…_
 
 </section>
