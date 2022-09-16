@@ -93,7 +93,6 @@ readingOrder:
   - prisne_tajne_080.html
   - prisne_tajne_081.html
   - prisne_tajne_082.html
-  - prisne_tajne_083.html
   - about.html
 tocBase:
   - id: section-1

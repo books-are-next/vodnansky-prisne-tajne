@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "vodnansky-prisne-tajne-3da0d69",
-  "revision": "3da0d69",
+  "identifier": "vodnansky-prisne-tajne-ca0f9e5",
+  "revision": "ca0f9e5",
   "readingOrder": [
     "promo.html",
     "prisne_tajne_005.html",
@@ -90,12 +90,11 @@
     "prisne_tajne_080.html",
     "prisne_tajne_081.html",
     "prisne_tajne_082.html",
-    "prisne_tajne_083.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Sep 16 2022 08:27:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1663316826742
+    "date": "Fri Sep 16 2022 08:34:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1663317272590
   },
   "documents": [
     {
@@ -1659,7 +1658,7 @@
       "role": "chapter",
       "order": 78,
       "prev": "prisne_tajne_081.html",
-      "next": "prisne_tajne_083.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1671,34 +1670,14 @@
       ]
     },
     {
-      "title": "Přísně tajné",
-      "file": "prisne_tajne_083.html",
-      "words": 50,
-      "chars": 344,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 79,
-      "prev": "prisne_tajne_082.html",
-      "next": "about.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 100,
-      "chars": 681,
-      "ideas": 8,
+      "words": 135,
+      "chars": 880,
+      "ideas": 17,
       "role": "about",
       "order": null,
-      "prev": "prisne_tajne_083.html",
+      "prev": "prisne_tajne_082.html",
       "next": null,
       "toc": [
         {
@@ -1713,14 +1692,14 @@
   ],
   "totals": {
     "all": {
-      "words": 5179,
-      "chars": 26787,
-      "ideas": 1410
+      "words": 5164,
+      "chars": 26642,
+      "ideas": 1406
     },
     "chapters": {
-      "words": 5073,
-      "chars": 26072,
-      "ideas": 1398
+      "words": 5023,
+      "chars": 25728,
+      "ideas": 1385
     }
   }
 }
