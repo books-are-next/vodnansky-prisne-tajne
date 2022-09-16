@@ -1,16 +1,16 @@
 ---
 title: Bouře
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Bouře je a nebe  
+Bouře je a nebe  
 se zemí se jebe  
 nebe jebe se zemí  
 Celé naše území  
-A já zase tebe…_
+A já zase tebe…
 
-_Praporčice Vé Bé_
+Praporčice Vé Bé
 
 </section>

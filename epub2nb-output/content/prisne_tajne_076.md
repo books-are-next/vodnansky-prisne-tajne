@@ -1,13 +1,13 @@
 ---
 title: Já su malý hypnotizér
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Já su malý hypnotizér  
+Já su malý hypnotizér  
 Tak si teda oko vyser  
 Zaženu tě do hypnozy  
-Až ti začnou mečet kozy_
+Až ti začnou mečet kozy
 
 </section>

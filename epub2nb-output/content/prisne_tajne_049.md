@@ -1,28 +1,28 @@
 ---
 title: Už mně pejsku briskně odmítni
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Už mě pejsku  
+Už mě pejsku  
 briskně odmítni  
 Já jsem totiž  
-promiskuitní_
+promiskuitní
 
-_Každý co chce  
+Každý co chce  
 to mi vylíže  
 Za úsměv  
-i za misku rýže_
+i za misku rýže
 
-_Naposled mi  
+Naposled mi  
 výliz poskytni  
 Já jsem totiž  
-promiskuitní_
+promiskuitní
 
-_Zítra po mně  
+Zítra po mně  
 ani neškytni  
 Zapomeň  
-jsem promiskuitní_
+jsem promiskuitní
 
 </section>

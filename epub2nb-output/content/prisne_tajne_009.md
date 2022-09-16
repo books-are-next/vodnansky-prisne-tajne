@@ -1,19 +1,19 @@
 ---
 title: Som perverzná
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Som perverzná  
+Som perverzná  
 A ráda o tom zpievam  
 Som perverzná  
 Aj keď sa s okna dievam  
 Som perverzná  
 Som perverzná  
-A prečo som… nik nezná_
+A prečo som… nik nezná
 
-            _Ste perverzná  
+            Ste perverzná  
 Moj psychiater vraví  
             Ste perverzná  
 On ujo je ten pravý  
@@ -21,14 +21,14 @@ Ten psycho — ujo
 Typ… čo ma  
 Provokujo  
 Čo stále prorokujó  
-            Ste perverzná_
+            Ste perverzná
 
-_Moja milá sa mna bojí  
+Moja milá sa mna bojí  
 Protože som pod obojí  
 Homosex i hetero  
-To sa divíš megero_
+To sa divíš megero
 
-            _Ste perverzná  
+            Ste perverzná  
 Moj psychiater vraví  
             Ste perverzná  
 On ujo je ten pravý  
@@ -37,15 +37,15 @@ Inhibuje
 V diagnoze  
 Nechybuje  
 On dobre vie aj zná  
-že…_
+že…
 
-_Som perverzná  
+Som perverzná  
 Tak ako sokol na javori  
 Som perverzná  
 A prebieram si svoje pery  
-Som perverzná_
+Som perverzná
 
-_Som perverzná  
+Som perverzná  
    Tak ako feudálna princezna  
 Som perverzná  
 Tak jako kvapka rosy  
@@ -55,11 +55,11 @@ Ak všetko oč ťa prosím
 Som perverzná  
 Ak moje dlhé „ááách“  
 Som perverzná  
-ako čalúnený vták_
+ako čalúnený vták
 
-_Na hornom koncu  
-Na hornom koncu_
+Na hornom koncu  
+Na hornom koncu
 
-            _Som perverzná_
+            Som perverzná
 
 </section>

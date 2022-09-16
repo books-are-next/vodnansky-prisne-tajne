@@ -1,20 +1,20 @@
 ---
 title: Něber si dcerečka
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Něber si dcerečka  
+Něber si dcerečka  
 Prošlého syrečka  
 On by ťa ublemtal  
-Vem raděj Ementál_
+Vem raděj Ementál
 
-_Sedí Jano na lati  
+Sedí Jano na lati  
 Učí sa tam kakati  
 Ak sa to naučí  
 svoju lať mi pučí  
 Ak sa to naučí  
-Do lesa zahučí_
+Do lesa zahučí
 
 </section>

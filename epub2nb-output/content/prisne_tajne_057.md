@@ -1,18 +1,18 @@
 ---
 title: Naše tváře vyblity
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Naše tváře vyblity  
+Naše tváře vyblity  
 máme svoje limity  
 Ploužíme se ve svých tělech  
-Jako hráči v mantinelech_
+Jako hráči v mantinelech
 
-_Každá duše  
+Každá duše  
 Ve svém těle  
 Má svůj pelech  
-„Jů“ i „Hele“_
+„Jů“ i „Hele“
 
 </section>

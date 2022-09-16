@@ -1,21 +1,21 @@
 ---
 title: Prepáč mi moj grupáč
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Prepáč prepáč prepáč  
+Prepáč prepáč prepáč  
 Prepáč mi moj grupáč  
 Nepropadaj skepsi  
-Bolo to aj se psi_
+Bolo to aj se psi
 
-_Prepáč prepáč prepáč  
+Prepáč prepáč prepáč  
 Nemrač sa moj hlupáč…  
 Nemrač sa moj hlupáčik  
-Aj keď sa ti nepáčí_
+Aj keď sa ti nepáčí
 
-_Ten moj malý grupáč  
-Malý grupáčik_
+Ten moj malý grupáč  
+Malý grupáčik
 
 </section>

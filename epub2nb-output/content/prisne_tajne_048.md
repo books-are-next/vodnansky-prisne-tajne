@@ -1,18 +1,18 @@
 ---
 title: Já jsem tvůj šotek
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Já jsem tvůj šotek  
+Já jsem tvůj šotek  
 Na jeden dotek  
 Ihned se vzruším  
-Od paty k uším_
+Od paty k uším
 
-_A už ti šotek  
+A už ti šotek  
 jde do kalhotek  
 A už tě vzruší  
-tělem i duší_
+tělem i duší
 
 </section>

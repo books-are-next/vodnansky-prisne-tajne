@@ -1,11 +1,11 @@
 ---
 title: Cesta za Emou
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Vydejte se podle zkratky  
-Dál už povedou vás zvratky_
+Vydejte se podle zkratky  
+Dál už povedou vás zvratky
 
 </section>

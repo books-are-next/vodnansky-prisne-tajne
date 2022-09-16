@@ -1,11 +1,11 @@
 ---
 title: "Jde poručík z\_kasáren"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jde poručík z kasáren  
-Hlavu plnou prasáren_
+Jde poručík z kasáren  
+Hlavu plnou prasáren
 
 </section>

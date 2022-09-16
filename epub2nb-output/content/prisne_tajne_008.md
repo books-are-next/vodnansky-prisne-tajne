@@ -1,11 +1,11 @@
 ---
 title: Cesta Středozemím
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Se vzrušeným přirozením  
+Se vzrušeným přirozením  
 Kráčím celým Středozemím  
 Jsou tam sochy pro hochy  
 Pro Sady a Masochy  
@@ -17,6 +17,6 @@ tam se vzruším jako děcko
 Řím a Řecko  
 Řecko Řím  
 Tam se vždycky  
-Ztopořím_
+Ztopořím
 
 </section>

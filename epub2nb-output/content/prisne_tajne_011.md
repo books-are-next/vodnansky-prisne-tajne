@@ -1,53 +1,53 @@
 ---
 title: Bytová jádra
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Pro bráchu i kamaráda  
+Pro bráchu i kamaráda  
    Buduji bytová jadra  
       Bydlí Judr — bydlí Mudr  
-         V jádru taky bydlet budu_
+         V jádru taky bydlet budu
 
-_Obalím tě hadrem sádro  
+Obalím tě hadrem sádro  
    A už bude z bytu jádro  
       Dobrá parta — príma skvarda  
-         málokdy se s jádrem babrá_
+         málokdy se s jádrem babrá
 
-_Pro tvá ňadra pro tvé prádlo  
+Pro tvá ňadra pro tvé prádlo  
    udělám ti z bytu jádro  
       Bude jádro bytové  
-         Předem z Tebe hotové_
+         Předem z Tebe hotové
 
-_Erotika je paráda  
+Erotika je paráda  
    v lůně bytového jádra  
       Judr Mudr Generál  
-         Najde to co nehledal_
+         Najde to co nehledal
 
-_Zdárně mládnem — zdravě stárnem  
+Zdárně mládnem — zdravě stárnem  
    V rodných jádrech králíkáren  
       pro švagra i kamaráda  
-         bagruji bytová jádra_
+         bagruji bytová jádra
 
-_Bagruji bytové jádro  
+Bagruji bytové jádro  
    Aby žrádlo nevychladlo  
       Každá správná moudrá vláda  
-         Sází na bytová jádra_
+         Sází na bytová jádra
 
-_Erotika ta má grády  
+Erotika ta má grády  
    Skryta bytovými jádry  
       Dva hledají třetího  
-         Až ho najdou — chytí ho_
+         Až ho najdou — chytí ho
 
-_Erotika  
+Erotika  
    — prima garda  
       Judr Mudr Generál  
-         Každá správná moudrá vláda_
+         Každá správná moudrá vláda
 
-_Králíkáren ideál  
+Králíkáren ideál  
    Teplárna i elektrárna  
       Judr Mudr Generál  
-         Buduje bytová jádra_
+         Buduje bytová jádra
 
 </section>

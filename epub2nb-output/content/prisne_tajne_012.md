@@ -1,13 +1,13 @@
 ---
 title: Uklidnění lékařem
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Mentálně se ukázni  
+Mentálně se ukázni  
 Jazyk na mně vyplázni  
 Ukaž mi svou moč  
-Pak ti řeknu proč_
+Pak ti řeknu proč
 
 </section>

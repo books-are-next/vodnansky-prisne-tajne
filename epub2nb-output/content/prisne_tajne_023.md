@@ -1,63 +1,63 @@
 ---
 title: Ester
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Z tvých sto dvaceti sester  
+Z tvých sto dvaceti sester  
 je nejkrásnější Ester  
 je nejkrásnější Ester  
 primáři  
 Nač jsou mi dlouhé roky  
 tvé elektrické šoky  
 Jen jí se vyléčit mne  
-podaří_
+podaří
 
-_Když nikde jinde není  
+Když nikde jinde není  
 má víru v uzdravení  
 má víru v uzdravení ve tváři  
 jak žádný ze tvých bratrů  
 z tvých bratrů psychiatrů  
 je nejkrásnější Ester  
-primáři_
+primáři
 
-_Já býval schizofrenní  
+Já býval schizofrenní  
 co bývalo už není  
 Já žil jak cholerický maniak  
 Jen spatřil jsem tu malou  
 vše zázrakem se stalo  
-Já zdráv jsem a ty ani nevíš jak_
+Já zdráv jsem a ty ani nevíš jak
 
-_Už nechci barbiturát  
+Už nechci barbiturát  
 a do sklenic ti čurat  
 Já chci zas žíti volným životem  
 Mám testů tvých už dosti  
 a všech tvých laskavostí  
-když Ester večer mizí za plotem_
+když Ester večer mizí za plotem
 
-_Už přichází už přichází  
+Už přichází už přichází  
 za mnou on Dr  
 Myslí že jsem… myslí že jsem  
 hypochondr  
 Za ním vidím… za ním vidím  
 dva Mormony  
 Jak louděj’ na něm… louděj’ na něm  
-hormony_
+hormony
 
-_Bez psychoanalyzy  
+Bez psychoanalyzy  
 A přece mám dost mízy  
 A mizí zmatek paranoika  
 Když očima ji svlékám  
 A koukám se až někam  
-pak dojetím se přímo zalykám_
+pak dojetím se přímo zalykám
 
-_Však bez ní píseň nezní  
+Však bez ní píseň nezní  
 A ty jsi pro mne řezník  
 A na obloze slunce nezáří  
 Z tvých sto dvaceti sester  
 je nejkrásnější Ester  
 je nejkrásnější Ester  
-primáři_
+primáři
 
 </section>

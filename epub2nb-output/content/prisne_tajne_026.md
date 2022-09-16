@@ -1,13 +1,13 @@
 ---
 title: Mezi dvěma mosty
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Mezi dvěma mosty  
+Mezi dvěma mosty  
 Byl jsi na mě sprostý  
 Zato na mostě  
-Byly radostě_
+Byly radostě
 
 </section>

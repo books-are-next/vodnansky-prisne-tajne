@@ -1,11 +1,11 @@
 ---
 title: "Sedí Jano u\_hája"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Sedí Jano u hája  
-veselo sa ukája_
+Sedí Jano u hája  
+veselo sa ukája
 
 </section>

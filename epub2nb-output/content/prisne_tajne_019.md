@@ -1,13 +1,13 @@
 ---
 title: Jsem jako housle
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jsem jako housle  
+Jsem jako housle  
 Dosud nekouslé  
 Kéž struny pohoní mi  
-Sám velký Paganíny_
+Sám velký Paganíny
 
 </section>

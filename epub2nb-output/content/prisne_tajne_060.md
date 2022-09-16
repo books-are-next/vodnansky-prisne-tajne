@@ -1,19 +1,19 @@
 ---
 title: Moje dcera Zuzana
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Moje dcera Zuzana  
+Moje dcera Zuzana  
 Chodí ráno s kozama  
 Navečer se s nimi vrací  
 Není klukům pro legraci  
-Svedla by i Tarzana_
+Svedla by i Tarzana
 
-_Za normální nymfomanku  
+Za normální nymfomanku  
 Svedla by i čtyři v tanku  
 Kdyby tam byl s nimi pes  
-Taky přijde na přetřes_
+Taky přijde na přetřes
 
 </section>

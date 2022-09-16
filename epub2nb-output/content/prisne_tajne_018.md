@@ -1,76 +1,76 @@
 ---
 title: Markýz de Sade
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Markýz de Sade jde do lesa  
+Markýz de Sade jde do lesa  
 za ním komtesa cupitá  
 Ukrytá do houští  
-za chvíli smysly ji… opouští_
+za chvíli smysly ji… opouští
 
-_V závrati zakvílí  
+V závrati zakvílí  
 Tajemnou vášeň v ní  
 rozpoutá sám de Sade  
-Chodívá s komtesou do lesa_
+Chodívá s komtesou do lesa
 
-_Zaplesat nad láskou  
+Zaplesat nad láskou  
 podivnou… která je  
 otázkou z hlediska  
-práva a morálky obecné_
+práva a morálky obecné
 
-_Markýz je pro vášně  
+Markýz je pro vášně  
 svoje i komtesy  
 Vzrušen je obzvláště  
-když ji to vyděsí… vyděsí_
+když ji to vyděsí… vyděsí
 
-_Co je v ní tajemství  
+Co je v ní tajemství  
 když je tak bez pláště předsudků  
 vzrušena přírodou  
-v ní i tou… mimo ni_
+v ní i tou… mimo ni
 
-_Výchova klášterní  
+Výchova klášterní  
 ještě víc rozohní  
 její stud palčivý  
-pod planou jabloní… jabloní_
+pod planou jabloní… jabloní
 
-_Pohled uhrančivý  
+Pohled uhrančivý  
 nad ní tmou nakloní  
 nevidí… víc tuší  
 jak ztrácí vědomí  
 Do spánků krev buší  
-šílenstvím… vím… vím_
+šílenstvím… vím… vím
 
-_Zítra zas vznešeně  
+Zítra zas vznešeně  
 ruměnec panenství  
 Ponese na tváři  
-V srdci tmu… tajemství_
+V srdci tmu… tajemství
 
-_Až bude pan de Sade  
+Až bude pan de Sade  
 Až bude jednou sám  
 opuštěn… nečekán  
-bude mít alespoň o čem psát_
+bude mít alespoň o čem psát
 
-_Do lesa jak chodil  
+Do lesa jak chodil  
 s komtesou…  
 vzpomínky  
 jeho zas zpátky ho zanesou  
 do těch míst…  
-do těch krás_
+do těch krás
 
-_Až bude starý pán  
+Až bude starý pán  
 obývat Bastilu  
 jiní ji dobývat budou  
 a ve stylu  
-jeho psát_
+jeho psát
 
-_Psát a žít  
+Psát a žít  
 žít a psát  
 hříšně snít  
-zajisté_
+zajisté
 
-_Blázniví milenci  
-přátelé… sadisté_
+Blázniví milenci  
+přátelé… sadisté
 
 </section>

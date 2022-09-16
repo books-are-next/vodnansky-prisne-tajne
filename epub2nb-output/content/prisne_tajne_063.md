@@ -1,13 +1,13 @@
 ---
 title: "Lucie, ta v\_noci procitá"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Lucie, ta v noci procitá  
+Lucie, ta v noci procitá  
 Zmocní se jí reciprocita  
 Reciproční touha obou pohlaví  
-Podlehne a tím se vždycky pobaví_
+Podlehne a tím se vždycky pobaví
 
 </section>

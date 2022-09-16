@@ -1,18 +1,18 @@
 ---
 title: Pan profesor pohladí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Pan profesor pohladí  
+Pan profesor pohladí  
 Dívkám jejich pohlaví  
 Ovšemže jen úsměvem  
-dvojsmyslným pohledem_
+dvojsmyslným pohledem
 
-_Pak přednáší o vagíně  
+Pak přednáší o vagíně  
 Předvádí ji na svém klíně  
 Studentky se pobaví  
-Vždyť má jiné pohlaví_
+Vždyť má jiné pohlaví
 
 </section>

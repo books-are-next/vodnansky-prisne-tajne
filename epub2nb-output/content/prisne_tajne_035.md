@@ -1,20 +1,20 @@
 ---
 title: "S\_novým jarem\_— nový harém"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_S novým jarem — nový harém  
+S novým jarem — nový harém  
 Ale co se děje v starém  
 Favoritky favoriti  
 Dávají si zahuliti  
 Paša se tam peleší  
 S turbanem i pod pleší  
 Odaliska kouká zblízka  
-Na to co ji potěší_
+Na to co ji potěší
 
-_Haréme ach haréme  
-Tam jsou všechny staré mé_…_!_
+Haréme ach haréme  
+Tam jsou všechny staré mé_…_!
 
 </section>

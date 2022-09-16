@@ -1,18 +1,18 @@
 ---
 title: Letadlo je velký pták
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Letadlo je velký pták  
+Letadlo je velký pták  
 Je v něm řada různých pák  
 Na sedadle připínák tam leží  
 Kdo si na sedadlo sedne  
 Ten se z něho rychle zvedne  
-A s pohnutím za stewardkou běží…_
+A s pohnutím za stewardkou běží…
 
-          _Ta hovorí prepáčte  
+          Ta hovorí prepáčte  
           _ou ou_  
           Bol to moj pripínáčik  
           _o__u ou_  
@@ -20,24 +20,24 @@ A s pohnutím za stewardkou běží…_
           Nebyl bych si na něj sedʼ  
             _jou jou_  
           Pripútajte sa však teď  
-          Ked sa s nami dvíha tiež lietadlo_
+          Ked sa s nami dvíha tiež lietadlo
 
-            _Zvedá se zvedá  
+            Zvedá se zvedá  
             Pokoj nám nedá  
             Velký pták… velký pták  
             Keď srdce zahorí  
             Keď oči hovorí  
             Nač sa bát… nač sa bát  
             Letím na služební cestu do Brna  
-            To sa naozaj volate… Kudrna_
+            To sa naozaj volate… Kudrna
 
-            _Nevím zda letím  
+            Nevím zda letím  
             nebo neletím  
             Vaše oči jsou mi  
             sladkým zajetím  
-            A před vámi samou touhou klesám_
+            A před vámi samou touhou klesám
 
-_Já hovorím prepáčte  
+Já hovorím prepáčte  
      ou ou  
 Nevzdychajte_…_ nepláčte  
      jou jou  
@@ -46,15 +46,15 @@ Dám vám svoju odpoveď
      ou_…_ ou  
 Pripútajte sa však teď  
      Aká je to odpoveď_…_?  
-Keď s nami klesá… tiež lietadlo_
+Keď s nami klesá… tiež lietadlo
 
-            _Nevím zda letím  
+            Nevím zda letím  
             nebo neletím  
             Vaše oči jsou mi  
             sladkým zajetím  
-            A před vámi na kolena padám_
+            A před vámi na kolena padám
 
-            _Prečo_…_ že tu padáte  
+            Prečo_…_ že tu padáte  
             _neviem_  
             Vy rozuma nemáte  
             _neviem_  
@@ -67,6 +67,6 @@ Keď s nami klesá… tiež lietadlo_
             Keď s námi padá  
             tiež lietadlo  
             _To by ma nenapadlo_  
-            _Óooó… Óoooooooó__
+            _Óooó… Óoooooooó_
 
 </section>

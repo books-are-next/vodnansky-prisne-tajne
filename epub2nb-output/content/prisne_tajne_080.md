@@ -1,41 +1,41 @@
 ---
 title: Co mám dělat, máti
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Co mám dělat, máti  
-Když mě ten pán klátí_
+Co mám dělat, máti  
+Když mě ten pán klátí
 
-     _Zkus zkus  
+     Zkus zkus  
      tedy zkus  
      Zkus si na něm  
-     orgazmus_
+     orgazmus
 
-_První dívčí orgazmus…?  
-Kde ho jinde bráti_…__
+První dívčí orgazmus…?  
+Kde ho jinde bráti_…_
 
-_Co mám dělat máti  
-Když mě ten pán mlátí_
+Co mám dělat máti  
+Když mě ten pán mlátí
 
-     _Zkus zkus  
+     Zkus zkus  
      tedy zkus  
      dát mu jednu  
-     na plexus_
+     na plexus
 
-_Na plexus či na předkus  
-Bude se mě báti_…_?_
+Na plexus či na předkus  
+Bude se mě báti_…_?
 
-_Co mám dělat máti  
-Mám či nemám dáti_
+Co mám dělat máti  
+Mám či nemám dáti
 
-     _Zkus dva  
+     Zkus dva  
      kotouly  
      Pak ho kopni  
-     do koulí_
+     do koulí
 
-     _Začne se tě báti  
-Děkuju ti… máti_
+     Začne se tě báti  
+Děkuju ti… máti
 
 </section>

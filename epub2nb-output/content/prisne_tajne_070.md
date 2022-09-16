@@ -1,11 +1,11 @@
 ---
 title: Dědeček nás probouzí
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Dědeček nás probouzí  
-Populační explozí_
+Dědeček nás probouzí  
+Populační explozí
 
 </section>

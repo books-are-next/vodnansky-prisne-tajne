@@ -1,13 +1,13 @@
 ---
 title: Mámo, mámo, pojď domu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Mámo, mámo, pojď domu  
+Mámo, mámo, pojď domu  
 Už se stýská po tobě  
 Tatínkově kondomu  
-Ukájí se na vdově_
+Ukájí se na vdově
 
 </section>

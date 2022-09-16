@@ -1,56 +1,56 @@
 ---
 title: Árie maséra
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Proč se na mne tak kasáš  
+Proč se na mne tak kasáš  
 když mi provádíš masáž  
        Proč se na tě tak kasám  
        a sám a sám  
 Proč se na tě tak kasám  
        Proč se na mne tak kasáš  
 Když ti provádím masáž  
-       Když mi provádíš masáž_
+       Když mi provádíš masáž
 
-       _Proč se na mne tak kasáš  
-       když mi provádíš masáž_
+       Proč se na mne tak kasáš  
+       když mi provádíš masáž
 
-_Proč se na tě tak kasám  
-A sám a sám_
+Proč se na tě tak kasám  
+A sám a sám
 
-_Říká se o mně: Toť v pasáži  
+Říká se o mně: Toť v pasáži  
 žije tam jeden pán  
 Zabýváť se on masáží  
-vesměs nádherných dam_
+vesměs nádherných dam
 
-       _Proč se na ně tak kasáš  
-       když jim provádíš masáž_
+       Proč se na ně tak kasáš  
+       když jim provádíš masáž
 
-_Proč se na ně tak kasám  
-a sám a sám…_
+Proč se na ně tak kasám  
+a sám a sám…
 
-       _Napřed vás zmasíruji  
+       Napřed vás zmasíruji  
        a pak vás spasíruji  
        Napřed vás zmasím  
-       A pak vás spasím_
+       A pak vás spasím
 
-       _Nehledě na séra  
+       Nehledě na séra  
        vsaďte na maséra  
        pokud se naskytne  
-       pro oči blankytné_
+       pro oči blankytné
 
-       _Rdíte se nachová  
+       Rdíte se nachová  
        Krásu vám zachová  
        Napřed vás zmasí  
-       A úsměv vás spasí_
+       A úsměv vás spasí
 
-_Tak to máme: jednu _masáž_, _dva skotské střiky_… _rohlíček nebyl_?_
+Tak to máme: jednu _masáž_, _dva skotské střiky_… _rohlíček nebyl_?
 
-       _Nehledě na séra  
+       Nehledě na séra  
        Vsaďte na maséra  
        Napřed vás zmasíruje  
-       A pak vás… zkasíruje_
+       A pak vás… zkasíruje
 
 </section>

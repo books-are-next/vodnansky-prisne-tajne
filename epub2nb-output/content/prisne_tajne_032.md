@@ -1,26 +1,26 @@
 ---
 title: Tolerantní manžel
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Oddávat se mužům  
+Oddávat se mužům  
 Byť na krátkou chvíli  
 Řekni mi že můžu  
-Můj manželi milý_
+Můj manželi milý
 
-_Řekni jim, že můžou  
+Řekni jim, že můžou  
 Začínat si s Růžou  
 Která se jim líbí  
-Byť na krátkou chvíli_
+Byť na krátkou chvíli
 
-_No a když jsou v cíli  
+No a když jsou v cíli  
 Můj manželi milý  
 Čerpám nové síly  
-Na manželství s tebou_
+Na manželství s tebou
 
-_Z něhož žena šílí  
-Když polibky zebou_
+Z něhož žena šílí  
+Když polibky zebou
 
 </section>

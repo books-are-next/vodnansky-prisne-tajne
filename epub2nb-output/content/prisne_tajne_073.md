@@ -1,11 +1,11 @@
 ---
 title: Sama sobě může plodit
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Sama sobě může plodit  
-Moje paní… hermafrodit_
+Sama sobě může plodit  
+Moje paní… hermafrodit
 
 </section>

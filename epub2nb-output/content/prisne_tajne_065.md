@@ -1,29 +1,29 @@
 ---
 title: Promiskuitní prostitutka
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Promiskuitní  
+Promiskuitní  
 prostitutka  
 Ta ráda s osudem  
 se utká  
 Je povolná  
 a jindy prudká  
 promiskuitní  
-prostitutka_
+prostitutka
 
-_Pro misku rýže  
+Pro misku rýže  
 promiskuje  
 A zákazník  
 se miliskuje  
 Ta její skulinka  
 ji nutká  
 A touha promění se  
-v skutka_
+v skutka
 
-_Když kolem tebe  
+Když kolem tebe  
 sviští dutky  
 promiskuitní  
 prostitutky  
@@ -34,6 +34,6 @@ rány líže
 Promistkuitní  
 sadistku  
 Pak můžeš pozvat  
-Na whisku_
+Na whisku
 
 </section>

@@ -1,33 +1,33 @@
 ---
 title: Sexuálně vybij se
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Když je v tobě nevlídno  
+Když je v tobě nevlídno  
 Exkluzivní blondýno  
 Sexuálně vybij se  
-Na posteli Lybijce_
+Na posteli Lybijce
 
-_Lybijec je z Lybije  
+Lybijec je z Lybije  
 Pohladí i nabije  
 Komu se to nelíbí  
-ať se z toho vyblije_
+ať se z toho vyblije
 
-_Po divoké souloži  
+Po divoké souloži  
 Dámu chlapec odloží  
 usne jako mimino  
-Už nemyslí na kino_
+Už nemyslí na kino
 
-_Lybijec je Lybijec  
+Lybijec je Lybijec  
 Sex je jeho hlavní věc  
 Zájmu, píle, rozkoší  
-A proto tě pokouší_
+A proto tě pokouší
 
-_Hlavně že tě ukojí  
+Hlavně že tě ukojí  
 v hotelovém pokoji  
 Až to přijde nahlas mu  
-„Dosáhla jsem orgazmu“_
+„Dosáhla jsem orgazmu“
 
 </section>

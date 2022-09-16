@@ -1,20 +1,20 @@
 ---
 title: Já jsem malý Harlekýn
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Já jsem malý Harlekýn  
+Já jsem malý Harlekýn  
 Já chodím spát na měkkým  
 neusínám s Colombínou  
-Jinému je konkubínou_
+Jinému je konkubínou
 
-_Dělá to s ním na dece  
+Dělá to s ním na dece  
 V zimě potom na Wé Cé  
 V doprovodu konkubíny  
-Jde Pierot do kabiny_
+Jde Pierot do kabiny
 
-_(nevíme jak dalece)_
+(nevíme jak dalece)
 
 </section>

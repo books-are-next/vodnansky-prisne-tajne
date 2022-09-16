@@ -1,21 +1,21 @@
 ---
 title: Po hedvábí ruka sviští
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Po hedvábí ruka sviští  
+Po hedvábí ruka sviští  
 už se nebezpečně blíží  
 Jako éro na letišti  
-K vaší vydrážděné hýždi_
+K vaší vydrážděné hýždi
 
-_Už se blíží  
+Už se blíží  
 Ruka k hýždi  
 A vám zdá se  
-O hlemýždi_
+O hlemýždi
 
-_který leze z ulity  
-Do vás_…_ jako ulitý_
+který leze z ulity  
+Do vás_…_ jako ulitý
 
 </section>
