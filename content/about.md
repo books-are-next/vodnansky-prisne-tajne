@@ -2,6 +2,17 @@
 title: Tiráž
 ---
 
+**Jan Vodňanský    
+Přísně tajné**  
+**obscenity, úlety, pikanterie**  
+Edice Poezie  
+Redakce Jaroslava Bednářová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 2. elektronické vydání z 16. 9. 2022.
+
+***
+
 Znění tohoto textu vychází z díla [Přísně tajné](https://search.mlp.cz/cz/titul/prisne-tajne/2308977/#book-content) tak, jak bylo vydáno nakladatelstvím Hart v Praze v roce 2001. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 **§**
 Text díla (Jan Vodňanský: Přísně tajné), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), je vázán autorskými právy a jeho použití je definováno [Autorským zákonem](https://www.mkcr.cz/predpisy-zakonu-709.html) č. 121/2000 Sb.
