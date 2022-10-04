@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "vodnansky-prisne-tajne-d1ec94a",
-  "revision": "d1ec94a",
+  "identifier": "vodnansky-prisne-tajne-d32931b",
+  "revision": "d32931b",
   "readingOrder": [
     "promo.html",
     "prisne_tajne_005.html",
@@ -93,8 +93,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:47:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639243192
+    "date": "Tue Oct 04 2022 16:44:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901850096
   },
   "documents": [
     {
@@ -1672,9 +1672,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 135,
+      "words": 133,
       "chars": 880,
-      "ideas": 17,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "prisne_tajne_082.html",
@@ -1692,9 +1692,9 @@
   ],
   "totals": {
     "all": {
-      "words": 5164,
+      "words": 5162,
       "chars": 26642,
-      "ideas": 1406
+      "ideas": 1404
     },
     "chapters": {
       "words": 5023,
