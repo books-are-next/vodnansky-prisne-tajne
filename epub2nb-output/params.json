@@ -9,7 +9,8 @@
       "modified": "2022-03-31T00:00:00.000Z",
       "contentType": "poetry",
       "publisherShort": "mkp",
-      "edition": "Poezie"
+      "edition": "Poezie",
+      "isbn": "978-80-274-2804-5"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -1687,6 +1688,6 @@
       "user": "books-are-next",
       "repo": "vodnansky-prisne-tajne"
     },
-    "generatedAt": 1665415527764
+    "generatedAt": 1666072958443
   }
 }
