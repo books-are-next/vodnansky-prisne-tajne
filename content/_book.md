@@ -13,6 +13,7 @@ meta:
   contentType: poetry
   publisherShort: mkp
   edition: Poezie
+  isbn: 978-80-274-2804-5
 readingOrder:
   - promo.html
   - prisne_tajne_005.html
